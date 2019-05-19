@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Guideline Netflix</string>
+    <string name="tempo_duracao">3 horas</string>
 </resources>
